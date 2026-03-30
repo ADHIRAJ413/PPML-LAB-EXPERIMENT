@@ -1,0 +1,1 @@
+This project contains a Python-based implementation developed to demonstrate core programming concepts and problem-solving techniques. The aim of this work is to build a clear, structured, and efficient solution using Python.
